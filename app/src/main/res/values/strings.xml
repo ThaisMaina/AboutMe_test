@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Thais Maina</string>
+    <string name="yellow_star">Yellow star</string>
+    
+    <string name="bio">Oi, meu nome é Thaís Mainá.
+        \n\nLorem ipsum dolor sit amet, consectetur adipisicing elit.
+        \n\nNecessitatibus neque, odio omnis porro totam velit veritatis voluptas!
+        \nCorporis dicta error facere illum impedit laborum maxime, nesciunt nulla quos sunt ut vero?
+        \nDelectus ducimus enim fuga labore nam porro possimus quam quasi quibusdam,
+        \n\nquos recusandae soluta sunt, temporibus totam unde velit.
+        \n\nDan Brown é formado pelo Amherst College and Phillips Academy e durante anos deu aulas de inglês
+        \naté conseguir realizar o seu sonho: escrever a tempo inteiro.
+        \n\nFilho de um eminente matemático vencedor do Presidential Award, tinha como hobby a música sacra.
+        \nDan Brown cresceu rodeado de livros de filosofia, ciência e religião, fator que contribuiu
+        \nsignificativamente para a sua formação e para elaboração de suas obras.
+        \n\nO Código Da Vinci conseguiu um êxito sem precedentes, alcançando o primeiro lugar do top de
+        \nvendas e está traduzido em mais de quarenta línguas.
+        \n\nVai ser adaptado para cinema pela Columbia Pictures.\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
